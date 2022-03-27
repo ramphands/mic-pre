@@ -5,7 +5,7 @@ yup
 two versions:
 
  * Battery-mounted w/power switch and jacks
-    - ![Tiny Mic Pre](/img/mic pre.jpg)
+    - ![Tiny Mic Pre](/img/micpre.jpg)
     - Mouser cart: https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=81b8966b79
 
 * Microphone-mounted *aka* "Tiny Mic Pre" (to fit Ø6mm inside diameter steel/alu/brass tubing)
