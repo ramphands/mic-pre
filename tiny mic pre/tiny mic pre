@@ -1,0 +1,18 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    </head>
+    <body>
+    <h1>G:\Docs\MODULAr\EURO PCBS\mic pre\mic pre.kicad_sch</h1>
+    <p>17/02/2022 15:14:17</p>
+    <p>Eeschema (6.0.0)</p>
+    <p><b>Component Count:</b>16</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Datasheet</th><th>Description</th><th>Vendor</th></tr><tr><td>C1, C2, C3, C6</td><td>4</td><td>2.2uF</td><td>Device:C_Polarized_Small_US</td><td>~</td><td>Polarized capacitor, small US symbol</td><td></td></tr><tr><td>C4</td><td>1</td><td>10pF</td><td>Device:C_Small</td><td>~</td><td>Unpolarized capacitor, small symbol</td><td></td></tr><tr><td>C5</td><td>1</td><td>0.1uF</td><td>Device:C_Small</td><td>~</td><td>Unpolarized capacitor, small symbol</td><td></td></tr><tr><td>IC1</td><td>1</td><td>OPA172IDCKR</td><td>SamacSys_Parts:OPA172IDCKR</td><td>https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-OPA172IDCKR_C84622.pdf</td><td>General Purpose Amplifiers General Purpose 1 4.5V ~ 36V, +/-2.25V ~ 18V 10MHz 10 V/us SC-70-5 RoHS</td><td></td></tr><tr><td>J1</td><td>1</td><td>power conn</td><td>Connector_Generic:Conn_01x02</td><td>~</td><td>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J2, J3</td><td>2</td><td>AudioJack3</td><td>Connector:AudioJack3</td><td>~</td><td>Audio Jack, 3 Poles (Stereo / TRS)</td><td></td></tr><tr><td>R1</td><td>1</td><td>13.7k</td><td>Device:R_Small_US</td><td>~</td><td>Resistor, small US symbol</td><td></td></tr><tr><td>R2, R3, R6</td><td>3</td><td>100k</td><td>Device:R_Small_US</td><td>~</td><td>Resistor, small US symbol</td><td></td></tr><tr><td>R4</td><td>1</td><td>75k</td><td>Device:R_Small_US</td><td>~</td><td>Resistor, small US symbol</td><td></td></tr><tr><td>R5</td><td>1</td><td>49.9</td><td>Device:R_Small_US</td><td>~</td><td>Resistor, small US symbol</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    
